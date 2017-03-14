@@ -1,0 +1,15 @@
+Задачник
+
+http://khizha.dp.ua/library/Abramov_Gnezdilova_Zadachi_po_programmirovaniyu.pdf
+
+77 абвг, 78, 79, 82, 84, 103
+
+наминаю, что sin можно найти в библиотеке math
+
+сначала делаете 
+import math
+а затем в коде
+y = math.sin(x)
+
+Дедлайн: 
+18.03.2017

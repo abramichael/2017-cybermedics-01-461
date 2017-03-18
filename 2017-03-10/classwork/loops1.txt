@@ -1,0 +1,41 @@
+i = 1
+while (i <= n):
+	x = int(raw_input())
+	s += x
+	i += 1
+	
+	
+======================
+ПРЕДУСЛОВИЕ
+# Python
+
+s = 0
+x = int(raw_input())
+while (x <> 0):
+    s += x
+	x = int(raw_input())
+
+======================
+
+do while (c++, java, c#)
+repeat until
+
+ПОСТУСЛОВИЕ:
+//JAVA
+
+s = 0;
+do {
+	x = sc.nextInt();
+	s += x;
+}
+while (x != 0);
+
+=======================
+{Pascal}
+
+read(n);
+s := 0;
+for i := n downto 1 do
+begin
+	s := s + i;
+end;

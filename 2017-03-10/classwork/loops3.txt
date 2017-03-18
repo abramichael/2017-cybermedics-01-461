@@ -1,0 +1,6 @@
+s = 0
+x = sc.nextInt();
+while (x != 0) {
+	s += x;
+	x = sc.nextInt();
+}

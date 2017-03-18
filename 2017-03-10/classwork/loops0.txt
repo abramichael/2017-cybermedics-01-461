@@ -1,0 +1,16 @@
+Java
+
+n = sc.nextInt();
+s = 0;
+
+for (i = 1; i <= n; i += 2) {
+	
+	s += i
+}
+--------------------
+s = 0
+for (x = sc.nextInt(); x != 0; x = sc.nextInt()) {
+	s += x;
+}
+
+В питоне циклы for - это цикл for each

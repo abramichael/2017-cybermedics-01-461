@@ -1,0 +1,6 @@
+﻿http://khizha.dp.ua/library/Abramov_Gnezdilova_Zadachi_po_programmirovaniyu.pdf
+
+251, 252, 254, 256, 261
+
+
+Под последовательностью символов понимать строку.
